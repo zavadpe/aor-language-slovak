@@ -1,0 +1,24 @@
+{
+  "name": "aor-language-slovak",
+  "version": "0.1.0",
+  "description": "Slovak translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zavadpe/aor-language-slovak.git"
+  },
+  "keywords": [
+    "react",
+    "admin-on-rest",
+    "translation"
+  ],
+  "author": "Peter Zavadsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zavadpe/aor-language-slovak/issues"
+  },
+  "homepage": "https://github.com/zavadpe/aor-language-slovak#readme"
+}
